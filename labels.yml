@@ -1,3 +1,4 @@
 ---
-controller_labels_aap_cac_network: []
+# https://github.com/redhat-cop/controller_configuration/tree/devel/roles/labels#data-structure
+controller_labels: []
 ...

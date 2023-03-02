@@ -1,3 +1,4 @@
 ---
-controller_schedules_aap_cac_network: []
+# https://github.com/redhat-cop/controller_configuration/tree/devel/roles/schedules#data-structure
+controller_schedules: []
 ...

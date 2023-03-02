@@ -1,3 +1,4 @@
 ---
-controller_templates_aap_cac_network: [] 
+# https://github.com/redhat-cop/controller_configuration/blob/devel/roles/job_templates/README.md#data-structure
+controller_templates: [] 
 ...

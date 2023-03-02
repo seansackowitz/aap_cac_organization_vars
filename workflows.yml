@@ -1,3 +1,4 @@
 ---
-controller_workflows_aap_cac_network: []
+# https://github.com/redhat-cop/controller_configuration/tree/devel/roles/workflow_job_templates#data-structure
+controller_workflows: []
 ...

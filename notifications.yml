@@ -1,3 +1,4 @@
 ---
-controller_notifications_aap_cac_network: []
+# https://github.com/redhat-cop/controller_configuration/tree/devel/roles/notification_templates#data-structure
+controller_notifications: []
 ...
